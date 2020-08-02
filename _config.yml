@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My jekyll demo site
-email: your-email@example.com
+email: arshinashaik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Demonstrating how to build a Jekyll website hosted on GitHub Pages and create a static website CMS using Forestry.
 baseurl: "/mydemoblog" # the subpath of your site, e.g. /blog
@@ -29,11 +29,10 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-clean-blog
-paginate:           5
-paginate_path:      "/posts/page:num/"
+
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
